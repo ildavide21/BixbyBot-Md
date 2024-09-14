@@ -66,7 +66,7 @@ global.author = '𝐌𝐝'
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = '𝐬𝐭𝐚𝐧𝐛𝐨𝐭'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
